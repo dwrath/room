@@ -1,20 +1,24 @@
+:root{
+    --primary-color: #FFF;
+}
 .header-image{
     position: relative;
     flex: 2 1 0;
 }
 .logo-wrapper{
     position: absolute;
-    top: 10%;
+    top: 11%;
     left: 10%;
 }
 .nav-row{
     position: absolute;
     top: 10%;
-    left: 20%;
+    left: 25%;
 }
 .nav-links{
     display: flex;
     flex-direction: row;
     gap: 20px;
     list-style-type: none;
+    color: var(--primary-color);
 }
