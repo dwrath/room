@@ -29,3 +29,15 @@ body{
     list-style-type: none;
     color: var(--primary-color);
 }
+.header-padding{
+    padding: 0 5%;
+}
+.header-row{
+    margin-bottom: 35px;
+}
+.header-text{
+    font-size: 47px;
+}
+.paragraph-text{
+    font-size: 15px;
+}
