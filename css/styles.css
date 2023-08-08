@@ -35,9 +35,23 @@ body{
 .header-row{
     margin-bottom: 35px;
 }
+.paragraph-row{
+    margin-bottom: 35px;
+}
 .header-text{
     font-size: 47px;
 }
 .paragraph-text{
     font-size: 15px;
+}
+.shop-btn{
+    letter-spacing: 10px;
+    font-weight: 600;
+}
+.shop-arrow-wrapper{
+    width: 77px;
+}
+.arrow-box{
+    background-color: black;
+
 }
