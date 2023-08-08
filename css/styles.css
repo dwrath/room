@@ -53,5 +53,16 @@ body{
 }
 .arrow-box{
     background-color: black;
-
+}
+.arrow-wrapper{
+    width: 25px;
+    height: 35px;
+}
+.left-arrow, .right-arrow{
+    width: 100%;
+    height: 100%;
+}
+.row.arrow-row{
+    width: 120px;
+    height: 60px;
 }
