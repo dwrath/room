@@ -10,7 +10,7 @@ body{
     flex: 2 1 0;
 }
 .header-text{
-    font-weight: bold;
+    font-weight: 600;
 }
 .logo-wrapper{
     position: absolute;
@@ -43,6 +43,7 @@ body{
 }
 .paragraph-text{
     font-size: 15px;
+    color: hsl(0, 0%, 63%)
 }
 .shop-btn{
     letter-spacing: 10px;
@@ -69,5 +70,8 @@ body{
 .middle-col-title{
     font-weight: 700;
     letter-spacing: 10px;
-    font-size: 20px;
+    font-size: 15px;
+}
+.about-furniture-text{
+    color: hsl(0, 0%, 63%)
 }
