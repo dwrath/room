@@ -75,3 +75,7 @@ body{
 .about-furniture-text{
     color: hsl(0, 0%, 63%)
 }
+.left-arrow:hover, .right-arrow:hover{
+    cursor: pointer;
+
+}
